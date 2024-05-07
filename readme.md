@@ -1,1 +1,1 @@
-the first course
+the first course in ubuntu 
